@@ -2,6 +2,9 @@
 
 > Dokumentace k školnímu projektu | Platform: ownCloud | Server: Debian Linux | Rok: 2026
 
+**Autor:** Nguyen Hung San
+**Obor:** Informační technologie
+
 ---
 
 ## 1. Anotace
